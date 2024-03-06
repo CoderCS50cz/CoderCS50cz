@@ -6,10 +6,10 @@
 
 Welcome to my GitHub repository, where you will find my projects ranging from studying programming and coding to projects that contain solutions to problems at my work in the companies.
 
-<h2 align="left">YouTube Channel</h2>
+## YouTube Channel
 Feel free to check out my [YouTube Channel](https://www.youtube.com/) for an exciting journey into the world of web development, coding projects and more.
 
-<h2 align="left">Completed Harvard Courses</h2>
+## Completed Harvard Courses
 I'm passionate about continuous learning, and I've completed several courses from Harvard University through edX. These courses have expanded my understanding of programming, computer science, web development, and artificial intelligence. Down below are the Harvard courses I've completed with certificates:
 
 - CS50's Web Programming with Python and JavaScript
