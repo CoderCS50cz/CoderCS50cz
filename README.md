@@ -6,7 +6,7 @@
 
 Welcome to my GitHub repository, where you will find my projects ranging from studying programming and coding to projects that contain solutions to problems at my work in the companies.
 
-<h2 align="left">YouTube Channel</h2>
+## YouTube Channel
 
 Feel free to check out my [YouTube Channel](https://www.youtube.com/) for an exciting journey into the world of web development, coding projects and more.
 
