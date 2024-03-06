@@ -2,7 +2,7 @@
 
 **`Web & App Developer`**
 
-<img align="right" alt="Coding" width="300" src="[https://i.imgur.com/bSF8tXY.gif](https://camo.githubusercontent.com/27632f6d715083296e262514606a49000d3f52921b1775f8fff3a711a132c3c3/68747470733a2f2f692e696d6775722e636f6d2f625346387458592e676966)" style="margin-left:30px;padding-left:30px;">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/27632f6d715083296e262514606a49000d3f52921b1775f8fff3a711a132c3c3/68747470733a2f2f692e696d6775722e636f6d2f625346387458592e676966" style="margin-left:30px;padding-left:30px;">
 
 Welcome to my GitHub repository, where you will find my projects ranging from studying programming and coding to projects that contain solutions to problems at my work in the companies.
 
