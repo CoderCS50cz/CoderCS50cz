@@ -16,7 +16,7 @@ I'm passionate about continuous learning, and I've completed several courses fro
 
 - CS50's Web Programming with Python and JavaScript
 - [CS50's Introduction to Programming with Python](https://github.com/CoderCS50cz/CS50P)
-- CS50’s Introduction to Databases with SQL
+- [CS50’s Introduction to Databases with SQL](https://github.com/CoderCS50cz/CS50SQL)
 - CS50’s Introduction to Cybersecurity
 
 ---
