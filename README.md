@@ -15,8 +15,8 @@ Feel free to check out my [YouTube Channel](https://www.youtube.com/) for an exc
 I'm passionate about continuous learning, and I've completed several courses from Harvard University through edX. These courses have expanded my understanding of programming, computer science, web development, and artificial intelligence. Down below are the Harvard courses I've completed with certificates:
 
 - CS50's Web Programming with Python and JavaScript
-- CS50's Introduction to Programming with Python
-- CS50’s Introduction to Databases with SQL
+- [CS50's Introduction to Programming with Python](https://github.com/CoderCS50cz/CS50P)
+- [CS50’s Introduction to Databases with SQL](https://github.com/CoderCS50cz/CS50SQL)
 - CS50’s Introduction to Cybersecurity
 
 ---
